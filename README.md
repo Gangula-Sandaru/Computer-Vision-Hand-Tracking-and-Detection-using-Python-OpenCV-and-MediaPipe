@@ -20,4 +20,5 @@ Before running the program, ensure you have the following dependencies installed
 You can install the necessary dependencies using `pip`:
 
 ```bash
-pip install opencv-python mediapipe
+pip install -r requirements.txt
+
